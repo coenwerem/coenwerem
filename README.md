@@ -9,5 +9,5 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on control/computer vision tools for robotics.
 - 👯 I’m looking to collaborate to solve open problems in robot navigation and manipulation using proven techniques in learning and control systems. 
-- 📫 How to reach me: Send me an email at `clintonenwerem at gmail dot com`.
+- 📫 You can reach me at `clintonenwerem at gmail dot com`.
 
