@@ -1,6 +1,6 @@
 ### Hi there!
 
-I'm Clinton Enwerem, a Ph.D. Student in Electrical & Computer Engineering (ECE) at the University of Maryland, College Park, MD, USA. Thanks for stopping by!
+I am Clinton Enwerem, a Ph.D. Student in Electrical & Computer Engineering (ECE) at the University of Maryland, College Park, MD, USA. Thanks for stopping by!
 
 <!--
 **coenwerem/coenwerem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
