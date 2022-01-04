@@ -7,7 +7,7 @@ I'm Clinton Enwerem, a Ph.D. Student in Electrical & Computer Engineering (ECE) 
 
 Here are some ideas to get you started:
 -->
-- I’m currently working on control tools for robotics.
+- I’m currently working on control and planning tools for robotics.
 - I am interested in solving open problems in trusted autonomy, robot manipulation, and autonomous navigation using proven techniques in machine intelligence and system theory. 
 - You can reach me at `clintonenwerem at gmail dot com`.
 
