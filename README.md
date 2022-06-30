@@ -7,7 +7,7 @@ I am a Ph.D. Student in Electrical & Computer Engineering (ECE) at the Universit
 
 Here are some ideas to get you started:
 -->
-- I am broadly interested in topics at the intersection of mobile robotics, control theory, and machine learning. 
+- I am broadly interested in topics at the intersection of robotics (particularly mobile robotics and robotic manipulation), control theory, and machine learning. 
 - Currently, I am exploring tracking and formation control problems in swarm robotics.
 - You can reach me at `clintonenwerem at gmail dot com`.
 
